@@ -1,4 +1,4 @@
-First line. Nothing to argue about here.
+First line.
 
 Second line. This is an excercise in editing using GitHub, pulling and RESOLVING CONFLICTS.
 
